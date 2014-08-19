@@ -26,6 +26,11 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+-(void)mergeAction
+{
+    //mergae first action
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
