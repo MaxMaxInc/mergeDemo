@@ -24,14 +24,12 @@
     //branch 1 commit
     //branch 2 commit
     
+    //force push
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
 
--(void)secondBrandAction
-{
-    //merage 2 branch
-}
 
 - (void)didReceiveMemoryWarning
 {
