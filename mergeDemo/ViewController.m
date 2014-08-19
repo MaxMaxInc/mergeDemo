@@ -27,6 +27,12 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+
+-(void)secondBrandAction
+{
+    //merage 2 branch
+}
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
